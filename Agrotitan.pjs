@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{24B6FA0B-0143-461A-9758-AEB9E9A9428B}" version="15.0" key="{E4F67C4E-E884-4EBD-99E1-1CFAE6394715}">
+	<children>
+		<child name="Agro3C" key="{80A71DF9-A01F-4F75-AF3E-78013624D4B7}" path="Agro3C.mds" />
+	</children>
+	<testItems key="{6CC0566F-6C06-4FBE-B104-52D36899B139}">
+		<children>
+			<testItem key="{80A71DF9-A01F-4F75-AF3E-78013624D4B7}" enabled="True" timeout="0" stopOnError="True" description="" />
+		</children>
+	</testItems>
+	<variables key="{021459B1-CE79-4DFB-9106-8CC1A55AEE9B}" />
+	<analysis key="{CE4FB780-C3C5-40F0-A4E0-BBB163FDA62A}" />
+	<scc key="{C900492B-D218-429C-9AA0-264B7D78CA88}" name="Git Plugin">
+		<data />
+	</scc>
+</Root>

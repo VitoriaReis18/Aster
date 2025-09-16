@@ -1,0 +1,6 @@
+[submodule "Script/testes-automatizados-submodule"]
+	path = Script/testes-automatizados-submodule
+	url = git@bitbucket.org:viasoftnimitz/testes-automatizados-submodule.git
+[submodule "Script/testes-automatizados-agrotitan-commons"]
+	path = Script/testes-automatizados-agrotitan-commons
+	url = git@bitbucket.org:viasoftnimitz/testes-automatizados-agrotitan-commons.git
